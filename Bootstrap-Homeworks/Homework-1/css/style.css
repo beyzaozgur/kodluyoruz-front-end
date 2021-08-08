@@ -1,0 +1,52 @@
+body {
+    background-color:  #E9ECEF;
+}
+
+.header {
+    list-style-type: none;
+    height: 61px;
+    background-color: #454140;    
+}
+
+.header-first-li {
+    color: pink;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px; 
+    text-shadow: 2px 2px 5px red;
+}
+
+.header-link {
+    float: left;
+    padding: 20px;
+    color: white;
+}
+
+.header-link-style {
+    color: cornsilk;
+    text-shadow: 2px 2px 5px mediumaquamarine;
+}
+
+.card-style {
+    width: 18rem;
+    height: 27rem;
+    margin-bottom: 25px;
+}
+
+article>p {
+    background-color: #b7094c;
+    color: white;
+    display: inline-block;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+.page-title {
+    font-size: 40px;
+    color: #b7094c;
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card-title {
+    color: #b7094c;
+}
